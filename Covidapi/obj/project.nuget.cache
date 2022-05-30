@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3zRgxqsTB0ezAV+MzITFRszgKbV2tjNj+z7sayVkq6jPVkoml3FIz6UKnVmjU7qYFz8gmoXP5D+8P3djyAnJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\source\\repos\\Covidapi\\Covidapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\lucene.net\\3.0.3\\lucene.net.3.0.3.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.17\\microsoft.entityframeworkcore.analyzers.5.0.17.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\sharpziplib\\0.86.0\\sharpziplib.0.86.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.1\\swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'Lucene.Net 3.0.3' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' e non mediante il framework di destinazione del progetto 'net5.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "Lucene.Net",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'SharpZipLib 0.86.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' e non mediante il framework di destinazione del progetto 'net5.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "SharpZipLib",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
